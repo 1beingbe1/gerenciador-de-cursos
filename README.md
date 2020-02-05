@@ -1,2 +1,2 @@
 # gerenciador-de-cursos
-Projeto inicial do curso de introdução à linguagem JavaScript - Alura.
+Projeto introdutório dos cursos de Formação PHP Alura.
